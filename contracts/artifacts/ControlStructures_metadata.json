@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "doSomeThing",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "isTrue",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ControlStructures.sol": "ControlStructures"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ControlStructures.sol": {
+			"keccak256": "0xe7fae58a0c3beb8954a1c529205897aa1bb02d3a0e0331d3af4c31bb1fc12c29",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://669a3c28582919ada37512e545d4a5005c16253c35a3fe7f635033f4b41df604",
+				"dweb:/ipfs/QmSXQ1aDdss6p7qLcWdtxkSuE41FYsY1XY3AxZPMATJyMn"
+			]
+		}
+	},
+	"version": 1
+}
